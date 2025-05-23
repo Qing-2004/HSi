@@ -1,2 +1,2 @@
-# HSi
+# Dragon Finder
 Dragon Finder immersive game
